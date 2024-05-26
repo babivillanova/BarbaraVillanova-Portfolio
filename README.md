@@ -1,4 +1,4 @@
-#This is Barbara Villanova's portfolio
+# This is Barbara Villanova's portfolio
 
 This project is bootstrapped by gatsby
 
